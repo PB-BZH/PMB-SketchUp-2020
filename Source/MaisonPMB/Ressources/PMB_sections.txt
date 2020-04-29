@@ -1,0 +1,9 @@
+# - Blocs PMB -------------------------------------------------------------------------
+Type Bloc         Bloc_PMB.type_bloc     Standard|Demi|Angle
+Bloc PMB          Bloc_PMB.style         Ext|Refend
+Longueur Bloc     Bloc_PMB.longueur      300|370|400|410|440|490|600
+Largeur Bloc      Bloc_PMB.largeur       190|140|110|100|70
+Angle				      Bloc_PMB.style_angle   Exterieur|Interieur
+Hauteur bloc      Bloc_PMB.hauteur       85
+Longueur linteau  Bloc_PMB.long_linteau  3000
+# - Blocs PMB -------------------------------------------------------------------------

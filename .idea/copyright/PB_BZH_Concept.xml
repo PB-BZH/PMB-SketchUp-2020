@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="Published\s[0-9]+\/[0-9]+\/[0-9]{4}" />
+    <option name="notice" value=" Module : &amp;#36;module.name&#10; File name : &amp;#36;file.fileName - Last modified : &amp;#36;file.lastModified&#10; &#10; PB-BZH Concept (c) &amp;#36;today.year - The software written by Patrick Bourges&#10; All rights reserved.&#10; Published &amp;#36;today.day/&amp;#36;today.month/&amp;#36;today.year" />
+    <option name="myName" value="PB-BZH Concept" />
+  </copyright>
+</component>
